@@ -4,9 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/bevonbrye?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbevonbrye&screen_name=bevonbrye)
 
 
-## Marketer turned developer making life beautiful one line of code at a time! 
-
-<br />
+# Marketer turned developer making life beautiful one line of code at a time! 
 
 ### Resources
 
@@ -20,7 +18,6 @@
 </details>
 
 ### Languages and Tools:
-
 <br />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
