@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/bevonbrye?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbevonbrye&screen_name=bevonbrye)
 
 
-# Marketer turned Software Engineer - making life beautiful one line of code at a time! 
+# Marketer turned Software Engineer - making work beautiful one line of code at a time! 
 
 ### Resources
 
