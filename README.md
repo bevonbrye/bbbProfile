@@ -10,7 +10,7 @@
 
 <details>
 
-  <summary> My projects range from practical to fun. Please feel free to leave me feedback on any of my projects as I am always looking to learn and better my skills as Dev</summary>
+  <summary> My projects range from practical to fun. Please feel free to leave me feedback on any of my projects as I am always looking to learn and better my skills as Dev.</summary>
 
  - [San Francisco Properties](https://github.com/bevonbrye/30VanillaJSProjects)
  - [Video Chat App: Zoom Clone](https://github.com/bevonbrye/VideoChatApp)
