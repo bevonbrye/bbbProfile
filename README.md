@@ -10,7 +10,7 @@
 
 <details>
 
-  <summary> My projects range from practical to fun. Feel free to leave me feedback on any of my projects as I am always looking to learn and better my skills as Dev</summary>
+  <summary> My projects range from practical to fun. Please feel free to leave me feedback on any of my projects as I am always looking to learn and better my skills as Dev</summary>
 
  - [San Francisco Properties]https://github.com/bevonbrye/30VanillaJSProjects).
  - [Video Chat App: Zoom Clone](https://github.com/bevonbrye/VideoChatApp)
@@ -25,7 +25,7 @@
 
 <details>
 
-  <summary>   </summary>
+  <summary>Here are a few resources for under represented groups in the tech industry. </summary>
 
  - [Black Lives Matter](https://blacklivesmatter.com).
  - [Black Professionals in Tech Network](https://www.bptn.ca/)
