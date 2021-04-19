@@ -12,7 +12,7 @@
 
   <summary> My projects range from practical to fun. Please feel free to leave me feedback on any of my projects as I am always looking to learn and better my skills as Dev</summary>
 
- - [San Francisco Properties](https://github.com/bevonbrye/30VanillaJSProjects).
+ - [San Francisco Properties](https://github.com/bevonbrye/30VanillaJSProjects)
  - [Video Chat App: Zoom Clone](https://github.com/bevonbrye/VideoChatApp)
  - [eCommerce Fashion Website](https://github.com/bevonbrye/eCommerce)
  - [Muser](https://github.com/NickSchmitt/muserv2).
@@ -27,7 +27,7 @@
 
   <summary>Here are a few resources for under represented groups in the tech industry. </summary>
 
- - [Black Lives Matter](https://blacklivesmatter.com).
+ - [Black Lives Matter](https://blacklivesmatter.com)
  - [Black Professionals in Tech Network](https://www.bptn.ca/)
  - [Out In Tech](https://outintech.com/)
 </details>
