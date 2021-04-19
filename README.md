@@ -15,7 +15,7 @@
  - [San Francisco Properties](https://github.com/bevonbrye/30VanillaJSProjects)
  - [Video Chat App: Zoom Clone](https://github.com/bevonbrye/VideoChatApp)
  - [eCommerce Fashion Website](https://github.com/bevonbrye/eCommerce)
- - [Muser](https://github.com/NickSchmitt/muserv2).
+ - [Muser](https://github.com/NickSchmitt/muserv2)
  - [FryDay](https://github.com/bevonbrye/fryday)
  - [Ardor: Hangman](https://github.com/bevonbrye/Ardor)
 </details>
