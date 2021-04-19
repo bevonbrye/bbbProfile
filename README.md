@@ -18,6 +18,7 @@
  - [Muser](https://github.com/NickSchmitt/muserv2)
  - [FryDay](https://github.com/bevonbrye/fryday)
  - [Ardor: Hangman](https://github.com/bevonbrye/Ardor)
+ - [30 Vanilla JS Projects](https://github.com/bevonbrye/30VanillaJSProjects)
 </details>
 
 
