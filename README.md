@@ -12,7 +12,7 @@
 
   <summary> My projects range from practical to fun. Please feel free to leave me feedback on any of my projects as I am always looking to learn and better my skills as Dev.</summary>
 
- - [San Francisco Properties](https://github.com/bevonbrye/30VanillaJSProjects)
+ - [San Francisco Properties](https://github.com/bevonbrye/SF-properties)
  - [Video Chat App: Zoom Clone](https://github.com/bevonbrye/VideoChatApp)
  - [eCommerce Fashion Website](https://github.com/bevonbrye/eCommerce)
  - [Muser](https://github.com/NickSchmitt/muserv2)
